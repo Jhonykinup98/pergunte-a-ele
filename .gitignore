@@ -1,0 +1,13 @@
+backend/PergunteAele.Api/bin/
+backend/PergunteAele.Api/obj/
+backend/PergunteAele.Api/appsettings.json
+backend/PergunteAele.Api/appsettings.Development.json
+*.user
+.vs/
+
+frontend/pergunte/node_modules/
+frontend/pergunte/dist/
+frontend/pergunte/.env
+
+.DS_Store
+Thumbs.db
