@@ -74,3 +74,22 @@ Acesse `http://localhost:5173`.
 2. **Confirmação** (`/confirmar-email?token=...`) → ativa a conta.
 3. **Login** (`/login`) → por login/senha OU pelo botão "Entrar com Google".
 4. **Dashboard** (`/dashboard`) → rota protegida, só acessível logado.
+
+Login
+
+<img width="1919" height="933" alt="Index" src="https://github.com/user-attachments/assets/220abae3-049f-4d7a-9024-0dc6bb30a17c" />
+
+<img width="1915" height="915" alt="Login" src="https://github.com/user-attachments/assets/1a1045e5-8fad-4045-b3fa-ca8aefe74866" />
+
+
+Cadastro
+
+<img width="1915" height="908" alt="Cadastro" src="https://github.com/user-attachments/assets/c52b50e7-f628-4441-871c-1f3d7c59e8ad" />
+
+Login usuário
+
+<img width="1918" height="933" alt="LoginUsuario" src="https://github.com/user-attachments/assets/7b3d970c-4840-4427-8b16-a4aa748d5245" />
+
+Login ele 
+
+<img width="1919" height="933" alt="LoginELE" src="https://github.com/user-attachments/assets/f7e14772-a861-42d2-9dce-8e4e91ea9fa3" />
